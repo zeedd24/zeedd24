@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, iam Ahmad Zidane</h1>
+<h1 align="center">Hi there, i'am Ahmad Zidane</h1>
 <h3 align="center">Informatics Engineering Student | Frontend Developer | Web Developer | Machine learning</h3>
 
 <h3 align="left">Connect with me:</h3>
